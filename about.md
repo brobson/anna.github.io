@@ -2,7 +2,7 @@
 layout: page
 title: About Anna
 ---
-<img src="" class="align-right" style="border-radius: 50%;" width="300" alt="">
+<img src="images/anna_robson_square.jpg" class="align-right" style="border-radius: 50%;" width="300" alt="">
 
 Hi, I’m Anna Ulitsky-Robson — a **strategist, builder, and connector** with a passion for turning ideas into lasting impact. My career began in International Law and Ethics, but curiosity and a drive for innovation led me to expand into business intelligence, organizational transformation, and brand development.
 

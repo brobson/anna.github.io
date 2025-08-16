@@ -7,12 +7,10 @@ permalink: /work-with-me/
 
 Anna Ulitsky-Robson
 
+Innovative strategic leader with 15+ years’ experience guiding organizations through growth, transformation, and market expansion. Expert in business intelligence, DEI infrastructure design, operational leadership, and partnership building. Known for creating systems that improve productivity, drive revenue, and foster inclusive organizational cultures.
+
 Strategic Business Development | Organizational Leadership | DEI Systems Design
  anna@annarobson.com |  www.annarobson.com | Toronto, ON
-
-Summary
-
-Innovative strategic leader with 15+ years’ experience guiding organizations through growth, transformation, and market expansion. Expert in business intelligence, DEI infrastructure design, operational leadership, and partnership building. Known for creating systems that improve productivity, drive revenue, and foster inclusive organizational cultures.
 
 Core Skills
 * Business Development

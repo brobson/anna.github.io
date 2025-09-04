@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "6 Ways Ethics Can Help Your Budding Merger"
-tags: business, merger, leadership
+tags: business merger leadership
 ---
 
-##6 Ways Ethics Can Help Your Budding Merger
+# 6 Ways Ethics Can Help Your Budding Merger
 
 So, you’re merging with another company. You’re getting ready for the blending of the 2 businesses, ready to take the best of both and make it one better unit, best of both worlds as they say.
 

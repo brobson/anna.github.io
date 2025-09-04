@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "6 Things Your Business Can Learn from Quebec’s Jagged Justice System"
-tags: business, justice, quebec, leadership
+tags: business justice quebec leadership
 ---
 
-##6 Things Your Business Can Learn from Quebec’s Jagged Justice System
+# 6 Things Your Business Can Learn from Quebec’s Jagged Justice System
 
 Today started with a cold blast up the skirt of all that is ethical. I speak, of course of the Judge in Quebec who refused to hear a woman’s case because she wore a hijab.
 
